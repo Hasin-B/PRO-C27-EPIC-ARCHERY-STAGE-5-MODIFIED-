@@ -1,1 +1,1 @@
-# PRO-C27-EPIC-ARCHERY-STAGE-5-MODIFIED-
+# Project Template 27
